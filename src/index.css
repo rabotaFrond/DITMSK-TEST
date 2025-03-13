@@ -1,0 +1,10 @@
+:root {
+  --primary-border-color: #ccc;
+  --error-border-color: red;
+  --error-bg-color: #ffe6e6;
+  --error-text-color: red;
+  --base-font-size: 16px;
+}
+body {
+  font-size: var(--base-font-size);
+}
